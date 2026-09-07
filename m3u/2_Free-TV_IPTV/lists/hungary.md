@@ -71,11 +71,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 4   | TV7 Békéscsaba | [>](https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8) | <img height="20" src="https://i.imgur.com/G9Ib5K3.png" /> |
 | 5   | 16TV           | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> |
 | 6   | CityTV (Belváros Lipótváros) | [>](https://citytv.hu/playlist.m3u8) | <img height="20" src="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" /> |
-| 7   | FehérvárTV     | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2) | <img height="20" src="https://www.fehervartv.hu/css/img/icon-1-2.png" /> |
+| 7   | FehérvárTV     | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8) | <img height="20" src="https://www.fehervartv.hu/css/img/icon-1-2.png" /> |
 | 8   | AlföldTV       | [x](https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8) | <img height="20" src="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" /> |
 | 9   | Gyöngyös TV    | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RHgaPCk.png" /> | GyongyosiTV.hu |
 | 10  | Halom TV       | [>](rtmp://212.92.13.108/live/livestream1) | <img height="20" src="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" /> |
-| 11  | Kapos TV       | [x](https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8) | <img height="20" src="https://kapos.hu/static/keptar/13/b/9490.jpg" /> | KaposTV.hu |
+| 11  | Kapos TV       | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8) | <img height="20" src="https://kapos.hu/static/keptar/13/b/9490.jpg" /> | KaposTV.hu |
 | 12  | Kecskemét TV   | [>](http://rtmp1.40e.hu:8000/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> | KecskemetiTV.hu |
 | 13  | Lóverseny közvetítés | [x](https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8) | <img height="20" src="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" /> |
 | 14  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> | ZalaegerszegiTV.hu |
@@ -94,6 +94,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 27  | Pannon RTV    | [>](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
 | 28  | Tisza TV      | [x](https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 | 29  | Hegyvidék TV (Buda TV) | [>](http://budatv.streaming.aiproduction.hu/playlist.m3u) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" /> |
+| 30  | ES TV (Esztergom) | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8) | | EsztergomTV.hu |
+| 31  | Komáromi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8) | | KomaromiTelevizio.hu |
 
 
 <h2>Invalid</h2>
