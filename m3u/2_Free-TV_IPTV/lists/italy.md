@@ -30,7 +30,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 27  | 27 Twentyseven Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27.Twentyseven.it |
 | 28  | TV 2000        | [>](https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
 | 29  | La7 Cinema     | [>](https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8) | <img height="20" src="https://i.imgur.com/khPweok.png"/> | LA7.Cinema.it |
-| 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La5.it |
+| 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La.5.it |
 | 31  | Real Time      | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | Real.Time.it |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> | QVC.it |
 | 33  | Food Network   | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | Food.Network.it |
@@ -55,7 +55,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 54  | Rai Storia    | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
 | 54  | Rai Storia Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
 | 55  | Mediaset Extra Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> | Mediaset.Extra.it |
-| 56  | HGTV – Home & Garden Tv  | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
+| 56  | HGTV – Home & Garden Tv  | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTV.it |
 | 57  | Rai Scuola    | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 57  | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 58  | Rai Sport Ⓖ   | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
@@ -460,6 +460,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Radio Colonna Tv Ⓨ | [>](https://www.youtube.com/radiocolonna/live) | <img height="20" src="https://i.imgur.com/EcQvDfq.png"/> |
 | 519 | TRM h24 Ⓨ     | [>](https://www.youtube.com/user/trmh24/live) | <img height="20" src="https://i.imgur.com/d47CdYU.png"/> | TRMh24.it |
 | 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
+| 41  | K2             | [>](https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
+| 44  | Frisbee        | [>](https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
+| 0   | Canale 58 | [>](https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8) | <img height="20" src="https://i.imgur.com/RlFc74C.png"/> |
 
 <h2>Twitch Live</h2>
 
@@ -472,8 +475,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 41  | K2             | [x](https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
-| 44  | Frisbee        | [x](https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
 | 63  | GM24 Ⓢ         | [x](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
 | 61  | BIKE Channel   | [x](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 167 | VH1            | [x](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> | VH1Italia.it |
@@ -482,7 +483,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Antenna Sud Sport 2 | [x](https://live.antennasudwebtv.it:9443/hls/vodsport2.m3u8) | <img height="20" src="https://i.imgur.com/dl86FW1.png"/> |
 | 0   | Apulia Web Tv | [x](https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8) | <img height="20" src="https://i.imgur.com/AnU4g2J.png"/> |
-| 0   | Canale 58 | [x](https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8) | <img height="20" src="https://i.imgur.com/RlFc74C.png"/> |
 | 0   | Canale Uno Tivù Ⓣ | [x](https://www.twitch.tv/canaleunotivu) | <img height="20" src="https://i.imgur.com/hfqNw92.png"/> |
 | 0   | Cilento Channel | [x](https://streaming.dimind.it/live/cilentocnn/index.m3u8) | <img height="20" src="https://i.imgur.com/4k9Su8j.png"/> |
 | 0   | HUB Tv | [x](https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8) | <img height="20" src="https://i.imgur.com/46GTBEW.png"/> |
